@@ -1,0 +1,6 @@
+$(function() {
+
+	$('.empty-box').bxSlider();
+
+
+});
